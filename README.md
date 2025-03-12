@@ -24,7 +24,7 @@ I plan to add more projects to as I learn more about Git
 ## Project Structure
 ```
 /git-commit-practice
-│── git-commit-practice.html      # Simple HTML file for testing commits
+│── hello.html      # Simple HTML file for testing commits
 │── README.md       # This README file
 ```
 
